@@ -30,3 +30,6 @@
 
 ![data](/img/data.jpg)
 
+# RODO
+- GO重构
+- 细节优化
